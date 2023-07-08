@@ -1,4 +1,6 @@
-# the piratebay proxy  github.io
+# the RARBG proxy github.io
+
+View Orignal site: https://rarbgworkingproxy.github.io
 
 View Orignal site: https://thepiratebayproxy.github.io
 
